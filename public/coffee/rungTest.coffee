@@ -36,6 +36,7 @@ class RungValidator
 			else
 				close += 1
 		close / float(@regExList.length)
+"use strict";
 
 class ProgramValidator
 	constructor: (@correctFileName, @studentFileName)->
